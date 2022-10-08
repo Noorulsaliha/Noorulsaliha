@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noorul Saliha</h1>
+<p align="centre">I am a programmer, a web enthusiast and a newbie contributor. I am mostly interested in web standards and practices.I more into programming for the web and exploring new technologies. I also love to share my knowledge.</p>
 <h3 align="center">A girl who explores tech!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorulsaliha&label=Profile%20views&color=0e75b6&style=flat" alt="noorulsaliha" /> </p>
