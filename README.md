@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 📫 How to reach me **noorulsalia6@gmail.com**
+- 📫 How to reach me **noorulsaliha6@gmail.com**
 
 - ⚡ Fun fact **I think I love reading.**
 
