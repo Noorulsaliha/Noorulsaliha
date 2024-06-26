@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorulsaliha&label=Profile%20views&color=0e75b6&style=flat" alt="noorulsaliha" /> </p>
 
 
-- 🌱 I’m currently learning **DSA With Java**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **noorulsaliha6@gmail.com**
 
